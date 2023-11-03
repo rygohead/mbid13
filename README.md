@@ -8,6 +8,7 @@ Universidad Internacional de Valencia*
 
 Prof: Dr. Horacio Kuna
 Dictado: ABR23-24
+Estudiante: Rodrigo Andrés Catalán Valenzuela
 
 ## Descripción del contenido
 
