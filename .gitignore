@@ -160,4 +160,5 @@ cython_debug/
 #.idea/
 
 examples/.mlruns
-.mlruns
+mlruns
+.storage
